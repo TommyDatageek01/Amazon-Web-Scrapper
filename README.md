@@ -4,7 +4,7 @@ Amazon-Web_Scrapping project was a project I carried out with speicial Python we
 I used Python to pull out the price of an amazon shirt, the posted date and the rating for the day.
 
 ## Objectives
-- - The goal of the project was to test my knowledge and skill in web scraping using Python.
+- The goal of the project was to test my knowledge and skill in web scraping using Python.
 - With this project, I was able to advance my expertise in the area of web scraping. Particularly beyond the use of BeautifulSoup
 - This project helped me gain experience in the knowledge of extracting and automating data from a website.
   
